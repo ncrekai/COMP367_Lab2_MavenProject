@@ -1,10 +1,8 @@
 package pkg;
-/**
- * A utility.
- */
+
 public class X {
-    /**
-     * Does something.
-     */
-    public void someMethod() {}
+
+    public static void main(String[] args) {
+        System.out.println("Welcome to COMP367");
+    }
 }
